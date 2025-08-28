@@ -1,2 +1,2 @@
 # RhodyLogPrivacy
-privacy policy for tnc app
+Privacy Policy for Rhody Log
